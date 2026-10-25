@@ -1,55 +1,43 @@
-# 👋 Olá, eu sou Tiago! / Hello, I'm Tiago!
+# 🪑 Harmony | Ambientes Planejados
 
-### 🚀 DevSecOps e desenvolvedor em formação
+> **Transformando espaços em verdadeiros lares através de marcenaria de alto padrão e design inteligente.**
 
----
-
-## 🙋‍♂️ Sobre Mim / About Me
-
-**🇧🇷:**
-
-Desenvolvedor de Software com foco em Desenvolvimento e Segurança da Informação (DevSecOps). Atuo no planejamento e construção de aplicações web e mobile escaláveis, integrando boas práticas de segurança cibernética e arquitetura limpa em todo o ciclo de vida do software. Possuo sólida experiência em modelagem e otimização de bancos de dados relacionais e automação de processos.
-
-
-
-**🇺🇸:**
-
-Software Developer specializing in Development and Security (DevSecOps). Dedicated to building scalable web and mobile applications by integrating security best practices and clean architecture across the entire software development lifecycle. Skilled in relational database management, query optimization, and process automation.*
+Uma vitrine digital desenvolvida para a **Harmony**, uma empresa de móveis planejados sediada no Distrito Federal. O projeto foca em uma identidade visual premium, utilizando tons sofisticados e um layout totalmente responsivo.
 
 ---
 
-## 🛠️ Tech Stacks & Tools
+## ✨ Destaques e Funcionalidades
 
-### 🌐 DevSecOps, Cloud & Infrastructure
-<div inline>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white" alt="Terminal" />
-</div>
-
-<br />
-
-### 💻 Programming & Databases
-<div inline>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-</div>
+- **🖼️ Hero Section Imersiva:** Fundo com efeito *parallax* em tons de cinza, destacando os textos e a proposta de valor da marca.
+- **📱 100% Responsivo:** Adaptação perfeita para celulares, tablets e desktops utilizando Flexbox.
+- **🎠 Carrossel Interativo:** Exibição de projetos recentes com transições suaves e zoom dinâmico ao passar o mouse, construído com Vanilla JS.
+- **🔍 Efeito Glassmorphism:** Cards de estatísticas e avaliações com fundo semi-transparente, desfoque (blur) e bordas sutis.
+- **🎨 Identidade Visual Forte:** Tipografia elegante (*Playfair Display* e *Segoe UI*) contrastando com a paleta oficial da loja (Vermelho, Cinza, Preto e Branco).
 
 ---
 
-## 📬 Contatos / Connect with me
+## 🛠️ Tecnologias Utilizadas
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tiago-henrique-94b1462a8)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](tiagoh.carvalho18@gmail.com)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+O projeto foi construído "do zero" (Vanilla) para garantir máxima performance e controle total sobre o código:
+
+
+
+*   **HTML5:** Semântica e estruturação do conteúdo.
+*   **CSS3:** Estilização global, variáveis nativas (`:root`), Flexbox e animações (`transitions`, `transform`).
+*   **JavaScript (Vanilla):** Lógica do carrossel de imagens e interatividade.
+*   **FontAwesome:** Ícones vetorizados no rodapé (WhatsApp, Instagram, Email).
+*   **Google Fonts:** Tipografia premium para os títulos.
 
 ---
 
-<p align="center">
-  <i>"Segurança e desenvolvimento lado a lado. Código limpo, banco otimizado e commit no Git!" 🛡️⚡</i>
-</p>
+## 🚀 Como Executar o Projeto
+
+Como o projeto é estático e baseado no lado do cliente (Front-end), não é necessário instalar dependências.
+
+1. **Clone este repositório** para a sua máquina local:
+   ```bash
+   git clone [https://github.com/SEU_USUARIO/nome-do-repositorio.git](https://github.com/SEU_USUARIO/nome-do-repositorio.git)
