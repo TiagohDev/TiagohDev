@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Tiago! / Hello, I'm Tiago!
 
-### 🚀 Desenvolvedorde Software | DevSecOps
+### 🚀 Desenvolvedor de Software | DevSecOps
 
 ---
 
@@ -8,13 +8,12 @@
 
 ### 🇧🇷 Português
 
-> Desenvolvedor(a) de Software com foco em **Desenvolvimento e Segurança da Informação (DevSecOps)**. Atuo no planejamento e construção de aplicações web e mobile escaláveis, integrando boas práticas de segurança cibernética e arquitetura limpa em todo o ciclo de vida do software. Possuo sólida experiência em modelagem e otimização de bancos de dados relacionais e automação de processos.
+ Desenvolvedor(a) de Software com foco em **Desenvolvimento e Segurança da Informação (DevSecOps)**. Atuo no planejamento e construção de aplicações web e mobile escaláveis, integrando boas práticas de segurança cibernética e arquitetura limpa em todo o ciclo de vida do software. Possuo sólida experiência em modelagem e otimização de bancos de dados relacionais e automação de processos.
 
-<br />
 
 ### 🇺🇸 English
 
-> Software Developer specializing in **Development and Security (DevSecOps)**. Dedicated to building scalable web and mobile applications by integrating security best practices and clean architecture across the entire software development lifecycle. Skilled in relational database management, query optimization, and process automation.
+ Software Developer specializing in **Development and Security (DevSecOps)**. Dedicated to building scalable web and mobile applications by integrating security best practices and clean architecture across the entire software development lifecycle. Skilled in relational database management, query optimization, and process automation.
 
 ---
 
